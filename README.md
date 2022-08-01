@@ -2,7 +2,7 @@
   <img width="120" src="https://user-images.githubusercontent.com/59645426/180124002-9ae887a0-124e-419d-bb8c-c796baf02d52.png">
 </p>
 
-# uui
+# uui [![npm version](https://badge.fury.io/js/da-uui.svg)](https://badge.fury.io/js/da-uui)
 
 🖖 A vue-cli 3.0 + vue + typeScript + babel + eslint + unit-mocha + scss + chai + karma。
 
