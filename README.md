@@ -37,6 +37,53 @@ Vue.component(Select.name, Select)
 Vue.component(Button.name, Button)
 ```
 
+## TS Element
+
+- [ts-element系列之alert警告]()
+
+<details>
+<summary>展开查看</summary>
+
+```js
+// 导入ElementUIComponent组件类型
+import { ElementUIComponent } from './component'
+
+// 警告类型
+// 主题type
+export type AlertType = 'success' | 'warning' | 'info' | 'error'
+// effect选择提供的主题
+export type AlertEffect = 'dark' | 'light'
+
+/** 警告组件 */
+export declare class ElAlert extends ElementUIComponent {
+  /** 标题 */
+  title: string
+
+  /** 组件主题 */
+  type: AlertType
+
+  /** 描述性文本，也可以通过默认槽 */
+  description: string
+
+  /** 是否可关闭 */
+  closable: boolean
+
+  /** 是否将文本居中 */
+  center: boolean
+
+  /** 自定义关闭按钮文本 */
+  closeText: string
+
+  /** 显示类型图标 */
+  showIcon: boolean
+
+  /** 选择提供的主题 */
+  effect: AlertEffect
+}
+```
+
+<details>
+
 ## License
 
 [MIT License](https://github.com/webVueBlog/uui/blob/master/LICENSE)
