@@ -39,7 +39,7 @@ Vue.component(Button.name, Button)
 
 ## TS Element
 
-- [ts-element系列之alert警告]()
+- [ts-element系列之alert警告](https://github.com/webVueBlog/uui/issues/1)
 
 <details>
 <summary>展开查看</summary>
@@ -82,7 +82,7 @@ export declare class ElAlert extends ElementUIComponent {
 }
 ```
 
-<details>
+</details>
 
 ## License
 
