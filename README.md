@@ -6,6 +6,21 @@
 
 🖖 A vue-cli 3.0 + vue + typeScript + babel + eslint + unit-mocha + scss + chai + karma。
 
+我的工作：
+
+- 写什么样的代码：技术分享
+- 思考如何写代码：技术思考
+- 熟悉业务：业务思考
+- 熟悉工作流程：优化工作流程（从需求-开发-联调-测试-上线）
+- 提升效率
+- 加班
+
+我的学习：
+
+- 明确学习目标，找到适合的学习方式（看书，视频，文档，社区，Github）
+- 站在巨人的肩膀上
+- 不断积累，技术分享
+
 # Install
 
 ```js
@@ -39,6 +54,7 @@ Vue.component(Button.name, Button)
 
 ## TS Element
 
+- [ts-element系列之前言](https://github.com/webVueBlog/uui/issues/3)
 - [ts-element系列之alert警告](https://github.com/webVueBlog/uui/issues/1)
 - [ts-element系列之aside](https://github.com/webVueBlog/uui/issues/2)
 
