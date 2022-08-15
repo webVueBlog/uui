@@ -56,6 +56,7 @@ Vue.component(Button.name, Button)
 
 - [ts-element系列之前言](https://github.com/webVueBlog/uui/issues/3)
 - [ts-element系列之设计流程](https://github.com/webVueBlog/uui/issues/4)
+- [ts-element系列之布局](https://github.com/webVueBlog/uui/issues/5)
 - [ts-element系列之alert警告](https://github.com/webVueBlog/uui/issues/1)
 - [ts-element系列之aside](https://github.com/webVueBlog/uui/issues/2)
 
