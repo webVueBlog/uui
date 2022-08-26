@@ -58,6 +58,7 @@ Vue.component(Button.name, Button)
 - [ts-element系列之设计流程](https://github.com/webVueBlog/uui/issues/4)
 - [ts-element系列之布局](https://github.com/webVueBlog/uui/issues/5)
 - [ts-element系列之Container布局容器](https://github.com/webVueBlog/uui/issues/6)
+- [ts-element系列之色彩、字体、边框与图标](https://github.com/webVueBlog/uui/issues/7)
 - [ts-element系列之alert警告](https://github.com/webVueBlog/uui/issues/1)
 - [ts-element系列之aside](https://github.com/webVueBlog/uui/issues/2)
 
