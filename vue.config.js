@@ -28,7 +28,7 @@ module.exports = {
         }).end();
     })
   },
-  publicPath: '/',
+  publicPath: './',
   devServer: {
     // hot:true,
     host: 'localhost',

@@ -31,6 +31,15 @@ or
 yarn add da-uui
 ```
 
+## Gitlab-ci:从零开始的前端自动化部署
+
+- 在项目根目录下配置.gitlab-ci.yml文件 - .gitlab-ci的所有流程都是可视化的
+- intall => eslint检查 => 编译 => 部署服务器的流程
+- GitLab CI/CD 是一个内置在GitLab中的工具
+- Continuous Integration (CI)  持续集成
+- Continuous Delivery (CD)     持续交付
+Continuous Deployment (CD)     持续部署
+
 ## 说明
 
 ### Carousel Attributes
