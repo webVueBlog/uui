@@ -18,7 +18,7 @@ import { Component, Emit, Prop, Vue } from 'vue-property-decorator';
 @Component({
   name: 'DaButton'
 })
-export default class DyButton extends Vue {
+export default class DaButton extends Vue {
   public static comName = 'DaButton';
   @Prop({
     default: '',
@@ -76,11 +76,9 @@ export default class DyButton extends Vue {
 }
 </script>
 <style lang="scss" scoped>
-// @import '../../styles/_var.scss';
 $height: 42px;
 $font-size: 16px;
 $color: #606266;
-// $border-color:#dcdfe6;
 $background: #ecf5ff;
 $active-color: #3a8ee6;
 

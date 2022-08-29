@@ -7,7 +7,7 @@ import { Component, Prop, Vue } from 'vue-property-decorator';
 @Component({
   name: 'DaIcon'
 })
-export default class DyIcon extends Vue {
+export default class DaIcon extends Vue {
   public static comName = 'DaIcon';
   @Prop({
     required: true

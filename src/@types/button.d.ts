@@ -7,7 +7,7 @@
 // export type ButtonNativeType = 'button' | 'submit' | 'reset' | 'menu'
 
 /** Button Component */
-// export declare class DyButton extends ElementUIComponent {
+// export declare class DaButton extends ElementUIComponent {
 //   /** Button size */
 //   size: ElementUIComponentSize
 
