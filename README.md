@@ -4,7 +4,7 @@
 
 # uui [![npm version](https://badge.fury.io/js/da-uui.svg)](https://badge.fury.io/js/da-uui)
 
-🖖 A vue-cli 3.0 + vue + typeScript + babel + eslint + unit-mocha + scss + chai + karma。
+🖖 A vue-cli 3.0 + vue + typeScript 💬 微信交流: xiaoda0423⚡ 👉 如果你有问题
 
 我的工作：
 
